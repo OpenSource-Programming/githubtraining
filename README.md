@@ -13,7 +13,7 @@ We will introduce two training methods:
 |2| Learn Github in 1 Hour| https://youtu.be/RGOj5yH7evk| Method 2 goes a level deeper and introduces additional features and options available in github and also shows how to integrate github with popular IDE like VS code. | 
 
 
-Click on below link for Discord access: https://discord.gg/aA68DT3vyg
+Click on the link for Discord access: https://discord.gg/QPhnfbznFf
 
 We recommend to complete both trainings with in 24 hours. 
 
