@@ -17,3 +17,5 @@ Click on the link for Discord access: https://discord.gg/QPhnfbznFf
 
 We recommend to complete both trainings with in 24 hours. 
 
+
+Optional: Join our Facebook Group: https://tinyurl.com/OpenSourceprogramming4all
